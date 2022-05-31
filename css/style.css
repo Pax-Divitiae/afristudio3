@@ -139,7 +139,7 @@ img.img-polaroid {
 
 .hidden-top {
   height: 0;
-  color: rgb(24, 70, 6);
+  color: rgb(21, 22, 20);
   overflow: hidden;
   -webkit-transition: all 0.4s ease-out;
   -moz-transition: all 0.4s ease-out;
@@ -757,7 +757,7 @@ section.callaction {
 ==================================== */
 
 #inner-headline {
-  background: #0d3504;
+  background: #5F6C38;
   position: relative;
   margin: 0;
   padding: 0;
