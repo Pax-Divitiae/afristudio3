@@ -1,5 +1,5 @@
 Thanks for downloading 
 
 Theme Name: Afrostudio3
-Author: 
-Author URL: 
+Author: Pax Divitiae.com
+Author URL: www.paxdivitiae.com
