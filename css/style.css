@@ -1785,6 +1785,7 @@ ul.recent li h6 a {
   color: #fff;
 }
 
+
 /* ===== Widgets ===== */
 
 /* --- flickr --- */
@@ -1920,7 +1921,7 @@ ul.time-post li.time {
 ================================ */
 
 footer {
-  background: #111;
+  background: rgb(17, 17, 17);
   padding: 50px 0 0 0;
   color: #bbb;
 }
